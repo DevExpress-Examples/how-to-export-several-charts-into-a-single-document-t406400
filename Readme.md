@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to export several charts into a single document
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t406400)**
+**[[Run Online]](https://codecentral.devexpress.com/t406400/)**
 <!-- run online end -->
 
 
