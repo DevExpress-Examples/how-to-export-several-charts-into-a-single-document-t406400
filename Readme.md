@@ -1,11 +1,9 @@
-# How to export several charts into a single document
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t406400/)**
-<!-- run online end -->
+# (Obsolete) How to export several charts into a single document
 
+This example is now obsolete. You can find an actual example in our technical demos:
 
-The main idea of this example is to generate a single svg file from chart svg renderings and export this svg using the <a href="http://js.devexpress.com/Documentation/ApiReference/Common/utils/viz/Methods/?version=16_1#exportFromMarkupmarkup_options">DevExpress.viz.exportFromMarkup</a> method. 
-
-<br/>
-
-
+[Angular](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/ExportSeveralCharts/Angular/Light/)<br/>
+[React](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/ExportSeveralCharts/React/Light/)<br/>
+[Vue](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/ExportSeveralCharts/Vue/Light/)<br/>
+[ASP.NET](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/ExportSeveralCharts/NetCore/Light/)<br/>
+[jQuery](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/ExportSeveralCharts/jQuery/Light/)<br/>
